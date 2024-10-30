@@ -1,0 +1,18 @@
+{
+    "1234": [
+        {
+            "type": "withdrawal",
+            "amount": -100.0,
+            "timestamp": "2024-10-28 23:46:44",
+            "balance": 900.0
+        }
+    ],
+    "786549234567": [
+        {
+            "type": "deposit",
+            "amount": 600.0,
+            "timestamp": "2024-10-30 23:20:44",
+            "balance": 600.0
+        }
+    ]
+}

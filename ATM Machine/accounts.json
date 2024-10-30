@@ -1,0 +1,17 @@
+{
+    "1234": {
+        "pin": "1111",
+        "balance": 900.0,
+        "name": "John Doe"
+    },
+    "5678": {
+        "pin": "2222",
+        "balance": 2000.0,
+        "name": "Jane Smith"
+    },
+    "786549234567": {
+        "pin": "1234",
+        "balance": 600.0,
+        "name": "minal waghmode"
+    }
+}
